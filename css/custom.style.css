@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+body {}
+
+h2 {
+    text-align: center;
+    color: #2B546A;
+    font-family: 'Patrick Hand', cursive;
+}
+
+h3 {
+
+
+    text-align: center;
+    color: #2B546A;
+    font-family: 'Patrick Hand', cursive;
+
+}
+
+h1.masthead {
+    font-family: 'Teko', sans-serif;
+    font-weight: bold;
+    font-size: 80px;
+
+}
+
+.masthead-progate {
+    color: #2B546A;
+
+
+}
+
+.masthead-hacktober {
+    color: #383A59;
+}
+
+.masthead-fest {
+    color: #88E7CE;
+}
+
+.masthead-2021 {
+    color: #E94E31;
+}
+
+.img-thumbnail {
+    transition: .3s;
+    border-radius: 50%;
+    position: relative;
+    margin: 5px;
+}
+
+
+.img-thumbnail:hover {
+    opacity: 0.1;
+}
+}
