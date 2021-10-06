@@ -9,13 +9,13 @@ web sederhana yang memuat profil peserta Studi Independen Progate 2021
 
 ##Berkontribusi
 
-untuk berkonrtibusi di repo ini kalian pertama kali harus melakukan fork repository di akun github kalian
+untuk berkonrtibusi di repo ini  pertama kali harus melakukan fork repository di akun github kalian
 
 
-kemudian kalian bisa menambahkan foto atau gambar yang kalian mau di folder /img
-setelah itu kalin bisa membuat folder nama kalian di folder /pages yang di dalam nya bisa kalian isi dengan situs html buatan kalian
+kemudian  bisa menambahkan foto atau gambar yang kalian mau di folder /img
+setelah itu kalian bisa membuat folder nama kalian di folder /pages yang di dalam nya bisa kalian isi dengan situs html buatan kalian
 
-untuk langkah terakhir kalian bisa ke folder /js/index.js lalu edit seperti
+untuk langkah terakhir  bisa ke folder /js/index.js lalu edit seperti
 
 ```
 "Ilham adi": {
