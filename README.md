@@ -7,7 +7,7 @@
 
 web sederhana yang memuat profil peserta Studi Independen Progate 2021
 
-##Berkontribusi
+## Berkontribusi
 
 untuk berkonrtibusi di repo ini  pertama kali harus melakukan fork repository di akun github kalian
 
