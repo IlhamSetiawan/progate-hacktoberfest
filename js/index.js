@@ -7,7 +7,10 @@ const peserta = {
         "link": "https://afrizalhan.github.io/portfolio",
         "photo": "img/raehan.jpg"
     },
-
+    "Bangef": {
+        "link": "https://afrizalhan.github.io/portfolio",
+        "photo": "./img/bangef.webp"
+    },
 
     "namamu": {
 
