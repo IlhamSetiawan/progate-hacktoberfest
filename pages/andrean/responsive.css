@@ -1,0 +1,31 @@
+/*Untuk Table*/
+@media all and (max-width:  1000px){
+	/*header*/
+	.header-logo{
+		margin-left: 10px;
+		font-size: 40px;
+	}
+
+	.header-right a{
+		padding: 0 10px;
+	}
+
+	/*top-wrapper*/
+	.top-wrapper{
+		padding: 350px 0 300px 0;
+	}
+}
+
+
+/*Untuk Smartphone*/
+@media all and (max-width: 670px){
+	/*header*/
+	.header-right{
+		display: none;
+	}
+
+	/*top-wrapper*/
+	.top-wrapper h1{
+		font-size: 35px;
+	}
+}
