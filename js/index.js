@@ -8,7 +8,7 @@ const peserta = {
         "photo": "img/raehan.jpg"
     },
     "Bangef": {
-        "link": "https://afrizalhan.github.io/portfolio",
+        "link": "https://bangef-portofolio.000webhostapp.com/",
         "photo": "./img/bangef.webp"
     },
 
