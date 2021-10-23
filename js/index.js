@@ -10,7 +10,7 @@ const peserta = {
 
 
     "Andrean Yonathan": {
-        "link": "https://andreanynthn.github.io/",
+        "link": "https://andreanynthn.github.io/portfolio/",
         "photo": "img/andrean.png"
     },
 
