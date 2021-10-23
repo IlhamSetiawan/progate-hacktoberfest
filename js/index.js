@@ -9,9 +9,9 @@ const peserta = {
     },
 
 
-    "namamu": {
-
-        "photo": "img/fotomu.jpg"
+    "Andrean Yonathan": {
+        "link": "https://andreanynthn.github.io/",
+        "photo": "img/andrean.png"
     },
 
 };
