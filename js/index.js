@@ -12,9 +12,9 @@ const peserta = {
         "photo": "./img/bangef.webp"
     },
 
-    "namamu": {
-
-        "photo": "img/fotomu.jpg"
+    "Andrean Yonathan": {
+        "link": "https://andreanynthn.github.io/portfolio/",
+        "photo": "img/andrean.png"
     },
 
 };
